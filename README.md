@@ -1,6 +1,8 @@
 # Capstone-project-Mobile-Price-Range-Prediction
 AlmaBetter Verfied Project 
 
+PROJECT SUMMARY
+
 The objective of this GitHub project is to develop a predictive model that can estimate the price range of mobile phones using a wide range of features and specifications. Machine learning algorithms are employed to train and evaluate these predictive models. By leveraging the power of data analysis and pattern recognition, the project aims to provide accurate and reliable price range predictions for mobile phones, which can be valuable for consumers and businesses in the mobile phone industry.
 
 Dataset
